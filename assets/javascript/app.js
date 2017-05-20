@@ -1,5 +1,5 @@
 var animalsArray=["Batman","Spiderman","Superman","Flash","Ironman","Wolverine","Green Lantern","Hulk","Thor","Wonder Woman"];
-var queryBegin="http://api.giphy.com/v1/gifs/search?q=";
+var queryBegin="https://api.giphy.com/v1/gifs/search?q=";
 var queryEnd="&api_key=dc6zaTOxFJmzC&limit=10";
 
 
